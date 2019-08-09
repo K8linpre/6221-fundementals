@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\bin\Debug\Program 8 Teacher.exe.config
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\bin\Debug\Program 8 Teacher.exe
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\bin\Debug\Program 8 Teacher.pdb
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\obj\Debug\Program 8 Teacher.csprojAssemblyReference.cache
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\obj\Debug\Program 8 Teacher.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\obj\Debug\Program 8 Teacher.exe
+C:\Users\30002731\source\repos\Number 1\Program 8 Teacher\obj\Debug\Program 8 Teacher.pdb
