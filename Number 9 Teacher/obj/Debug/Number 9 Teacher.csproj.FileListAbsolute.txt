@@ -1,0 +1,6 @@
+C:\Users\30002731\source\repos\Number 1\Number 9 Teacher\bin\Debug\Number 9 Teacher.exe.config
+C:\Users\30002731\source\repos\Number 1\Number 9 Teacher\bin\Debug\Number 9 Teacher.exe
+C:\Users\30002731\source\repos\Number 1\Number 9 Teacher\bin\Debug\Number 9 Teacher.pdb
+C:\Users\30002731\source\repos\Number 1\Number 9 Teacher\obj\Debug\Number 9 Teacher.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Number 1\Number 9 Teacher\obj\Debug\Number 9 Teacher.exe
+C:\Users\30002731\source\repos\Number 1\Number 9 Teacher\obj\Debug\Number 9 Teacher.pdb

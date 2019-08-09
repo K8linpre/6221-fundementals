@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Number 1\Number 8\bin\Debug\Number 8.exe.config
+C:\Users\30002731\source\repos\Number 1\Number 8\bin\Debug\Number 8.exe
+C:\Users\30002731\source\repos\Number 1\Number 8\bin\Debug\Number 8.pdb
+C:\Users\30002731\source\repos\Number 1\Number 8\obj\Debug\Number 8.csprojAssemblyReference.cache
+C:\Users\30002731\source\repos\Number 1\Number 8\obj\Debug\Number 8.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Number 1\Number 8\obj\Debug\Number 8.exe
+C:\Users\30002731\source\repos\Number 1\Number 8\obj\Debug\Number 8.pdb

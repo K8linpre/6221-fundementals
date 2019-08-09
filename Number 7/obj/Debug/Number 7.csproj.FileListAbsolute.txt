@@ -1,0 +1,6 @@
+c:\users\30002731\source\repos\Number 1\Number 7\bin\Debug\Number 7.exe.config
+c:\users\30002731\source\repos\Number 1\Number 7\bin\Debug\Number 7.exe
+c:\users\30002731\source\repos\Number 1\Number 7\bin\Debug\Number 7.pdb
+c:\users\30002731\source\repos\Number 1\Number 7\obj\Debug\Number 7.csproj.CoreCompileInputs.cache
+c:\users\30002731\source\repos\Number 1\Number 7\obj\Debug\Number 7.exe
+c:\users\30002731\source\repos\Number 1\Number 7\obj\Debug\Number 7.pdb
