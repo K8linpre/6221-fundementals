@@ -1,0 +1,6 @@
+c:\users\30002731\source\repos\Number 1\Number 2\bin\Debug\Number 2.exe.config
+c:\users\30002731\source\repos\Number 1\Number 2\bin\Debug\Number 2.exe
+c:\users\30002731\source\repos\Number 1\Number 2\bin\Debug\Number 2.pdb
+c:\users\30002731\source\repos\Number 1\Number 2\obj\Debug\Number 2.csproj.CoreCompileInputs.cache
+c:\users\30002731\source\repos\Number 1\Number 2\obj\Debug\Number 2.exe
+c:\users\30002731\source\repos\Number 1\Number 2\obj\Debug\Number 2.pdb
